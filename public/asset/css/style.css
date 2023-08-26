@@ -1,0 +1,6 @@
+.content {
+    flex: 1;
+}
+.error {
+    color: #dc3545;
+}
